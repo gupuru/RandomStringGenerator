@@ -8,8 +8,8 @@ android {
     defaultConfig {
         minSdkVersion 15
         targetSdkVersion 25
-        versionCode 3
-        versionName "1.0.2"
+        versionCode 4
+        versionName "1.1.0"
     }
     buildTypes {
         release {
@@ -28,7 +28,7 @@ publish {
     userOrg = 'gupuru'
     groupId = 'com.gupuru.randomstringgenerator'
     artifactId = 'randomstringgenerator'
-    publishVersion = '1.0.2'
+    publishVersion = '1.1.0'
     desc = 'random string generator'
     website = 'https://github.com/gupuru/RandomStringGenerator.git'
     licences = ['MIT']
