@@ -10,6 +10,12 @@ It is a library to create such a random string.
 dkjh78o0v
 ```
 
+# Installation
+
+```
+compile 'com.gupuru.randomstringgenerator:randomstringgenerator:1.0.1'
+```
+
 # Usage
 
 In standard, and it generates a random string of 10 digits.
