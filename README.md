@@ -13,22 +13,32 @@ dkjh78o0v
 # Installation
 
 ```
-compile 'com.gupuru.randomstringgenerator:randomstringgenerator:1.0.1'
+compile 'com.gupuru.randomstringgenerator:randomstringgenerator:1.1.0'
 ```
 
 # Usage
 
 In standard, and it generates a random string of 10 digits.
 
-```
+```java
+//zqq2qcienb
 RandomStringGenerator.get();
 ```
 
 It is also possible to specify a digit.
 
+```java
+//cp2okfqjlj4v51n9kwz2wybi8pj2ruch0wg5xy5mpv8z3ubo3e
+RandomStringGenerator.get(50);
 ```
-RandomStringGenerator.get(30);
-```
+
+If you include the symbol
+```java
+//p5z8kLu1aA
+RandomStringGenerator.getInSymbol();
+
+//xSs0--zyEms8W0h1tXlQicXc7er8=i1M5OBrP=Vk3eX5GnvfXG
+RandomStringGenerator.getInSymbol(50);
 
 # License
 
